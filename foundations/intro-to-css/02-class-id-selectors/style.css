@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+
+.bg-text{
+    color: black;
+    background-color: pink;
+}
+
+#f1{
+    font-size: 15px;
+}
+
+#f2{
+    font-size: 20px;
+}
+#f3{
+    font-size: 15px;
+}
+.n2{
+    color: blue;
+    font-size: 25px;
+}
+.n4{
+    color: black;
+    background-color: hsl(120,100%,75%);
+    font-weight: bold;
+    font-size: 18px;
+}
